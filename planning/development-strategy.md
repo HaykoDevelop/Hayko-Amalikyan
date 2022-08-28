@@ -20,7 +20,7 @@
 - fork the repo of my partner
 - create issue
 - Create a project board
-  
+
 ---
 
 ## Must have
@@ -109,13 +109,13 @@
 ### 3 As a user I want to see the filter on the main-section
 
 - [ ] This user story is developed on branch `filters`.
-- [ ] Add filters on top-right corner of  the main body
+- [ ] Add filters on top-right corner of the main body
 - [ ] Add filters style in style.css
 - [ ] This branch is merged to `master` branch after completion.
 
 ### 4 As a user I want to see the currency on the main-section
 
 - [ ] This user story is developed on branch `currency`.
-- [ ] Add currency on top-right corner of  the main body
+- [ ] Add currency on top-right corner of the main body
 - [ ] Add currency style in style.css
 - [ ] This branch is merged to `master` branch after completion.
